@@ -36,6 +36,7 @@ public class InputHandlerScript : MonoBehaviour
        
         if(rayHit.collider.gameObject.name == arrCircle[index]){
             Debug.Log(arrCircle[index]);
+            GameObject.Find(arrCircle[index]).GetComponent<SpriteRenderer>().color = Color.green;
             index++;
         }
        
