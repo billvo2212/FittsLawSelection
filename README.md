@@ -4,7 +4,8 @@ This is a group project for COSC 341 at UBCO Summer 24 term 2.
 
 ### Video of demo: https://youtu.be/swKvuSleq0o
 
-### Report: [Assignment 2_REPORT](https://github.com/user-attachments/files/16434693/COSC.341.-.Assignment.2.-.Report.-.Google.Docs.pdf)
+### Report: [Assignment 2 - Report.docx](https://github.com/user-attachments/files/16434868/COSC.341.-.Assignment.2.-.Report.docx)
+
 
 ### GOAL FOR THIS PROJECT:
 - Team-work
